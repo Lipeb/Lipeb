@@ -24,6 +24,5 @@
   <img align="center" alt="Lipe-Jest" src=https://img.shields.io/badge/Jest-404D59?style=badge&logo=Jest&logoColor=white/> 
   <img align="center" alt="Lipe-Heroku" src=https://img.shields.io/badge/Heroku-404D59?style=badge&logo=heroku&logoColor=purple/>
   <img align="center" alt="Lipe-GitHub" src=https://img.shields.io/badge/GitHub-404D59?style=badge&logo=GitHub&logoColor=red/>
-  <img align="right"  alt="Lipe-Gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/926720773954105386/926724494008143872/Lipe.gif?width=432&height=432">
 </div>
 
