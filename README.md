@@ -17,10 +17,10 @@
   <img align="center" alt="Lipe-React" src=https://img.shields.io/badge/React-404D59?style=badge&logo=react&logoColor=white/>
   <img align="center" alt="Lipe-HTML" src=https://img.shields.io/badge/HTML5-404D59?style=badge&logo=html5&logoColor=white/>
   <img align="center" alt="Lipe-CSS" src=https://img.shields.io/badge/CSS3-404D59?style=badge&logo=css3&logoColor=blue/>
-  <img align="center" alt="Lipe-SCSS" src=https://img.shields.io/badge/SCSS-404D59?style=badge&logo=scss&logoColor=blue/>
+  <img align="center" alt="Lipe-SASS" src=https://img.shields.io/badge/SASS-404D59?style=badge&logo=SASS&logoColor=blue/>
   <img align="center" alt="Lipe-MySQL" src=https://img.shields.io/badge/MySQL-404D59?style=badge&logo=mysql&logoColor=white/>
   <img align="center" alt="Lipe-Mongodb" src=https://img.shields.io/badge/MongoDB-404D59?style=badge&logo=mongodb&logoColor=green/>
-   <img align="center" alt="Lipe-Prettier" src=https://img.shields.io/badge/Prettier-404D59?style=badge&logo=prettier&logoColor=white/>
+  <img align="center" alt="Lipe-Prettier" src=https://img.shields.io/badge/Prettier-404D59?style=badge&logo=prettier&logoColor=white/>
   <img align="center" alt="Lipe-Eslint" src=https://img.shields.io/badge/Eslint-404D59?style=badge&logo=Eslint&logoColor=white/>
   <img align="center" alt="Lipe-Jest" src=https://img.shields.io/badge/Jest-404D59?style=badge&logo=Jest&logoColor=white/> 
   <img align="center" alt="Lipe-Heroku" src=https://img.shields.io/badge/Heroku-404D59?style=badge&logo=heroku&logoColor=purple/>
