@@ -22,7 +22,6 @@
   <img align="center" alt="Lipe-Mongodb" src=https://img.shields.io/badge/MongoDB-404D59?style=badge&logo=mongodb&logoColor=green/>
   <img align="center" alt="Lipe-Prettier" src=https://img.shields.io/badge/Prettier-404D59?style=badge&logo=prettier&logoColor=white/>
   <img align="center" alt="Lipe-Eslint" src=https://img.shields.io/badge/Eslint-404D59?style=badge&logo=Eslint&logoColor=white/>
-  <img align="center" alt="Lipe-Jest" src=https://img.shields.io/badge/Jest-404D59?style=badge&logo=Jest&logoColor=white/> 
   <img align="center" alt="Lipe-Heroku" src=https://img.shields.io/badge/Heroku-404D59?style=badge&logo=heroku&logoColor=purple/>
   <img align="center" alt="Lipe-Git" src=https://img.shields.io/badge/Git-404D59?style=badge&logo=git&logoColor=red/>
   <img align="center" alt="Lipe-GitHub" src=https://img.shields.io/badge/GitHub-404D59?style=badge&logo=GitHub&logoColor=red/>
