@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hello there, I'm Felipe </h1>
 
 - 🌱 Currently studing NodeJS, ReactJS
-- 📫 How to reach me: Felipbdc@hotmail.com
+- 📫 How to reach me: Felipebnews@gmail.com / whats: 81 986623170
 
 ##
 <div align="center">
