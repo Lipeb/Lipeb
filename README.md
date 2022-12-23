@@ -3,7 +3,7 @@
 
 - 🌱 Currently studing NodeJS, ReactJS
 - 📫 How to reach me: Felipebnews@gmail.com / Felipbdc@hotmail.com 
-whatsapp: (55) 81 986623170
+- 📱 Whatsapp: (55) 81 986623170
 
 ##
 <div align="center">
