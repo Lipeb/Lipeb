@@ -12,12 +12,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lipe-Js" src=https://img.shields.io/badge/JavaScript-404D59?style=badge&logo=javascript&logoColor=yellow>
-  <img align="center" alt="Lipe-NodeJs" src=https://img.shields.io/badge/Node.js-404D59?style=badge&logo=node.js&logoColor=green>
-  <img align="center" alt="Lipe-React" src=https://img.shields.io/badge/React-404D59?style=badge&logo=react&logoColor=white/>
   <img align="center" alt="Lipe-HTML" src=https://img.shields.io/badge/HTML5-404D59?style=badge&logo=html5&logoColor=white/>
   <img align="center" alt="Lipe-CSS" src=https://img.shields.io/badge/CSS3-404D59?style=badge&logo=css3&logoColor=blue/>
   <img align="center" alt="Lipe-SASS" src=https://img.shields.io/badge/SASS-404D59?style=badge&logo=SASS&logoColor=blue/>
+  <img align="center" alt="Lipe-Js" src=https://img.shields.io/badge/JavaScript-404D59?style=badge&logo=javascript&logoColor=yellow>
+  <img align="center" alt="Lipe-NodeJs" src=https://img.shields.io/badge/Node.js-404D59?style=badge&logo=node.js&logoColor=green>
+  <img align="center" alt="Lipe-React" src=https://img.shields.io/badge/React-404D59?style=badge&logo=react&logoColor=white/>
+  <img align="center" alt="Lipe-Tailwind" src=https://img.shields.io/badge/Tailwind-404D59?style=badge&logo=tailwindcss&logoColor=white/>
   <img align="center" alt="Lipe-MySQL" src=https://img.shields.io/badge/MySQL-404D59?style=badge&logo=mysql&logoColor=white/>
   <img align="center" alt="Lipe-Mongodb" src=https://img.shields.io/badge/MongoDB-404D59?style=badge&logo=mongodb&logoColor=green/>
   <img align="center" alt="Lipe-Eslint" src=https://img.shields.io/badge/Eslint-404D59?style=badge&logo=Eslint&logoColor=white/>
